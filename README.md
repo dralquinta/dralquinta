@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 .... welcome to my github landing page
+
+My name is Denny, I'm a Cloud Architect at Oracle for Startups
+
+I currently lead the CloudBricks project available on https://github.com/oracle-devrel/ Feel free to contribute to it!
+
+We can connect on linkedin too. Here's my profile: https://www.linkedin.com/in/dralquinta/
 
 <!--
 **dralquinta/dralquinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
