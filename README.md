@@ -13,14 +13,23 @@ I currently lead the CloudBricks project available on https://github.com/oracle-
 ---
 
  |Programming languages and Technology expertise|
- |:-----------------:
-|<img align="center" alt="Visual Studio Code" width="28px" src="img/ansible.png" />|
-|<img align="center" alt="Visual Studio Code" width="28px" src="img/java.png" />|
-|<img align="center" alt="Visual Studio Code" width="28px" src="img/python.png" />|
-|<img align="center" alt="Visual Studio Code" width="28px" src="img/terraform.png" />|
-|<img align="center" alt="Visual Studio Code" width="28px" src="img/springboot.png" />|
-|<img align="center" alt="Visual Studio Code" width="28px" src="img/oci.png" />|
-
+<p><a href="https://www.ansible.com/"><img src="img/ansible.png" alt="ansible.com" width="30" >
+</a></p>
+<p><a href="https://www.terraform.io/"><img src="img/terraform.png" alt="terraform.io" width="30" >
+</a></p>
+<p><a href="https://www.python.org/"><img src="img/python.png" alt="python.org" width="30" >
+</a></p>
+<p><a href="https://spring.io/projects/spring-boot"><img src="img/springboot.png" alt="springboot.io" width="30" >
+<p><a href="https://www.docker.com/"><img src="img/docker.png" alt="docker.com" width="30" >
+</a></p>
+<p><a href="https://kubernetes.io/"><img src="img/k8.png" alt="kubernetes.io" width="30" >
+</a></p>
+</a></p>
+<p><a href="https://java.com/en/"><img src="img/java.png" alt="java.com" width="30" >
+</a></p>
+<p><a href="https://www.oracle.com/cl/cloud/"><img src="img/oci.png" alt="oracle.com" width="30" >
+</a></p>
+ 
 
 ---
 <h2> Let's connect </h2>
