@@ -16,7 +16,8 @@ I currently lead the CloudBricks project available on https://github.com/oracle-
 
 [<img src="img/ansible.png" alt="ansible.com" width="40px"/>](https://www.ansible.com)
 [<img src="img/terraform.png" alt="terraform.io" width="40px"/>](https://www.terraform.io)
-[<img src="img/python.png" alt="python.org" width="40px"/>](https://www.python.org)
+[<img src="img/jenkins.png" alt="jenkins.io" width="30px"/>](https://www.jenkins.io/)
+[<img src="img/python.png" alt="python.org" width="70px"/>](https://www.python.org)
 [<img src="img/springboot.png" alt="spring.io" width="40px"/>](https://spring.io/projects/spring-boot)
 [<img src="img/java.png" alt="java.com" width="40px"/>](https://java.com/en/)
 [<img src="img/k8.png" alt="kubernetes.io" width="70px"/>](https://kubernetes.io/)
