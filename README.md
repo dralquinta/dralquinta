@@ -14,14 +14,14 @@ I currently lead the CloudBricks project available on https://github.com/oracle-
 
 ### Technology expertise 
 
-[<img src="img/ansible.png" alt="ansible.com" width="30"/>](https://www.ansible.com)
-[<img src="img/terraform.png" alt="terraform.io" width="30"/>](https://www.terraform.io)
-[<img src="img/python.png" alt="python.org" width="30"/>](https://www.python.org)
-[<img src="img/springboot.png" alt="spring.io" width="30"/>](https://spring.io/projects/spring-boot)
-[<img src="img/java.png" alt="java.com" width="30"/>](https://java.com/en/)
-[<img src="img/k8.png" alt="kubernetes.io" width="30"/>](https://kubernetes.io/)
-[<img src="img/docker.png" alt="docker.com" width="30"/>](https://www.docker.com/)
-[<img src="img/oci.png" alt="oracle.com" width="30"/>](https://www.oracle.com/cl/cloud/) 
+[<img src="img/ansible.png" alt="ansible.com" width="40px"/>](https://www.ansible.com)
+[<img src="img/terraform.png" alt="terraform.io" width="40px"/>](https://www.terraform.io)
+[<img src="img/python.png" alt="python.org" width="40px"/>](https://www.python.org)
+[<img src="img/springboot.png" alt="spring.io" width="40px"/>](https://spring.io/projects/spring-boot)
+[<img src="img/java.png" alt="java.com" width="40px"/>](https://java.com/en/)
+[<img src="img/k8.png" alt="kubernetes.io" width="40px"/>](https://kubernetes.io/)
+[<img src="img/docker.png" alt="docker.com" width="40px"/>](https://www.docker.com/)
+[<img src="img/oci.png" alt="oracle.com" width="40px"/>](https://www.oracle.com/cl/cloud/) 
 
 ---
 <h2> Let's connect </h2>
