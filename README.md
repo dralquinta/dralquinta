@@ -12,24 +12,16 @@ I currently lead the CloudBricks project available on https://github.com/oracle-
 
 ---
 
- |Programming languages and Technology expertise|
-<p><a href="https://www.ansible.com/"><img src="img/ansible.png" alt="ansible.com" width="30" >
-</a></p>
-<p><a href="https://www.terraform.io/"><img src="img/terraform.png" alt="terraform.io" width="30" >
-</a></p>
-<p><a href="https://www.python.org/"><img src="img/python.png" alt="python.org" width="30" >
-</a></p>
-<p><a href="https://spring.io/projects/spring-boot"><img src="img/springboot.png" alt="springboot.io" width="30" >
-<p><a href="https://www.docker.com/"><img src="img/docker.png" alt="docker.com" width="30" >
-</a></p>
-<p><a href="https://kubernetes.io/"><img src="img/k8.png" alt="kubernetes.io" width="30" >
-</a></p>
-</a></p>
-<p><a href="https://java.com/en/"><img src="img/java.png" alt="java.com" width="30" >
-</a></p>
-<p><a href="https://www.oracle.com/cl/cloud/"><img src="img/oci.png" alt="oracle.com" width="30" >
-</a></p>
- 
+### Technology expertise 
+
+[<img src="img/ansible.png" alt="ansible.com" width="30"/>](https://www.ansible.com)
+[<img src="img/terraform.png" alt="terraform.io" width="30"/>](https://www.terraform.io)
+[<img src="img/python.png" alt="python.org" width="30"/>](https://www.python.org)
+[<img src="img/springboot.png" alt="spring.io" width="30"/>](https://spring.io/projects/spring-boot)
+[<img src="img/java.png" alt="java.com" width="30"/>](https://java.com/en/)
+[<img src="img/k8.png" alt="kubernetes.io" width="30"/>](https://kubernetes.io/)
+[<img src="img/docker.png" alt="docker.com" width="30"/>](https://www.docker.com/)
+[<img src="img/oci.png" alt="oracle.com" width="30"/>](https://www.oracle.com/cl/cloud/) 
 
 ---
 <h2> Let's connect </h2>
