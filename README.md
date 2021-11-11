@@ -19,9 +19,9 @@ I currently lead the CloudBricks project available on https://github.com/oracle-
 [<img src="img/python.png" alt="python.org" width="40px"/>](https://www.python.org)
 [<img src="img/springboot.png" alt="spring.io" width="40px"/>](https://spring.io/projects/spring-boot)
 [<img src="img/java.png" alt="java.com" width="40px"/>](https://java.com/en/)
-[<img src="img/k8.png" alt="kubernetes.io" width="40px"/>](https://kubernetes.io/)
-[<img src="img/docker.png" alt="docker.com" width="40px"/>](https://www.docker.com/)
-[<img src="img/oci.png" alt="oracle.com" width="40px"/>](https://www.oracle.com/cl/cloud/) 
+[<img src="img/k8.png" alt="kubernetes.io" width="70px"/>](https://kubernetes.io/)
+[<img src="img/docker.png" alt="docker.com" width="70px"/>](https://www.docker.com/)
+[<img src="img/oci.png" alt="oracle.com" width="68px"/>](https://www.oracle.com/cl/cloud/) 
 
 ---
 <h2> Let's connect </h2>
