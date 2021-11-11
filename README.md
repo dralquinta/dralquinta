@@ -9,6 +9,7 @@
 My name is Denny, I'm a Cloud Architect at Oracle for Startups
 
 I currently lead the CloudBricks project available on https://github.com/oracle-devrel/ Feel free to contribute to it!
+
 ---
 
  |Programming languages and Technology expertise|
