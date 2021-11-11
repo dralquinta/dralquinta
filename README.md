@@ -20,6 +20,7 @@ I currently lead the CloudBricks project available on https://github.com/oracle-
 |<img align="center" alt="Visual Studio Code" width="20px" src="img/java.png" />|
 |<img align="center" alt="Visual Studio Code" width="20px" src="img/python.png" />|
 |<img align="center" alt="Visual Studio Code" width="20px" src="img/terraform.png" />|
+|<img align="center" alt="Visual Studio Code" width="20px" src="img/springboot.png" />|
 
 
 ---
