@@ -9,6 +9,8 @@ My name is Denny, I'm a Cloud Architect at Oracle for Startups
 
 I currently lead the CloudBricks project available on https://github.com/oracle-devrel/ Feel free to contribute to it!
 
+[![dralquinta's github stats](https://github-readme-stats.vercel.app/api?username=dralquinta&count_private=true&show_icons=true)](https://github.com/dralquinta/github-readme-stats)
+
 ---
 
 ### Technology expertise 
@@ -32,5 +34,9 @@ I currently lead the CloudBricks project available on https://github.com/oracle-
 ---
 <h2> Hobbies </h2>
 I enjoy playing PS5. Send me a message and we can connect on PSPlus!
+
+
+
+
 
 
