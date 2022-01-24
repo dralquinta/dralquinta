@@ -7,7 +7,9 @@
 
 My name is Denny, I'm a Cloud Architect at Oracle for Startups
 
-I currently lead the CloudBricks project available on https://github.com/oracle-devrel/ Feel free to contribute to it!
+I currently lead the following projects:  
+CloudBricks project available on https://github.com/oracle-devrel/ Feel free to contribute to it!
+Fireup Scanner
 
 [![dralquinta's github stats](https://github-readme-stats.vercel.app/api?username=dralquinta&count_private=true&show_icons=true)](https://github.com/dralquinta/github-readme-stats)
 
