@@ -8,8 +8,10 @@
 My name is Denny, I'm a Cloud Architect at Oracle for Startups
 
 I currently lead the following projects:  
-- CloudBricks project available on https://github.com/oracle-devrel/ Feel free to contribute to it!
+- CloudBricks:
+   - Decoupled OCI Terraform modules to assemble Enterprise Architectures. Project available in [here](https://github.com/orgs/oracle-devrel/repositories?q=cloudbricks) Feel free to contribute to it!
 - Fireup Scanner
+   - Automated Scanner to review OCI Tenancies under the [Best Practice Framework](https://docs.oracle.com/en/solutions/oci-best-practices/). Soon to be open sourced. Stay Tunned!
 
 [![dralquinta's github stats](https://github-readme-stats.vercel.app/api?username=dralquinta&count_private=true&show_icons=true)](https://github.com/dralquinta/github-readme-stats)
 
