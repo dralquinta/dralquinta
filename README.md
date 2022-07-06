@@ -5,7 +5,7 @@
 
 
 
-My name is D, I'm a Cloud Architect at Oracle for Startups
+My name is D, I'm a Principal Product Manager at Oracle for Startups
 
 I currently lead the following projects:  
 - CloudBricks:
