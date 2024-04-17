@@ -4,7 +4,7 @@
 
 My name is D, I'm a Customer Engineer at Google
 
-Specilist in Infrastructure and Application Modernization. 
+Specialist in Infrastructure and Application Modernization. 
 
 
 [![dralquinta's github stats](https://github-readme-stats.vercel.app/api?username=dralquinta&count_private=true&show_icons=true)](https://github.com/dralquinta/github-readme-stats)
