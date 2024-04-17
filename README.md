@@ -2,16 +2,10 @@
 
 <br/>
 
+My name is D, I'm a Customer Engineer at Google
 
+Specilist in Infrastructure and Application Modernization. 
 
-
-My name is D, I'm a Master Principal Cloud Solutions Engineer at Oracle
-
-I currently lead the following projects:  
-- CloudBricks:
-   - Decoupled OCI Terraform modules to assemble Enterprise Architectures. Project available in [here](https://github.com/orgs/oracle-devrel/repositories?q=cloudbricks) Feel free to contribute to it!
-- Fireup Scanner
-   - Automated Scanner to review OCI Tenancies under the [Best Practice Framework](https://docs.oracle.com/en/solutions/oci-best-practices/). Soon to be open sourced. Stay Tunned!
 
 [![dralquinta's github stats](https://github-readme-stats.vercel.app/api?username=dralquinta&count_private=true&show_icons=true)](https://github.com/dralquinta/github-readme-stats)
 
@@ -27,6 +21,7 @@ I currently lead the following projects:
 [<img src="img/java.png" alt="java.com" width="40px"/>](https://java.com/en/)
 [<img src="img/k8.png" alt="kubernetes.io" width="70px"/>](https://kubernetes.io/)
 [<img src="img/docker.png" alt="docker.com" width="70px"/>](https://www.docker.com/)
+[<img src="img/gcp.png" alt="google.com" width="68px"/>](https://cloud.google.com/)
 [<img src="img/oci.png" alt="oracle.com" width="68px"/>](https://www.oracle.com/cl/cloud/) 
 
 
