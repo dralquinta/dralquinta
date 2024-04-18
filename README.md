@@ -1,4 +1,4 @@
-### Hi there 👋 .... welcome to my github landing page!
+# Hi there <a href="https://www.cloud.google.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> .... welcome to my github landing page!
 
 <br/>
 
@@ -6,6 +6,14 @@ My name is D, I'm a Customer Engineer at Google
 
 Specialist in Infrastructure and Application Modernization. 
 
+
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+
+<a href="https://linkedin.com/in/dralquinta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+---
 
 [![dralquinta's github stats](https://github-readme-stats.vercel.app/api?username=dralquinta&count_private=true&show_icons=true)](https://github.com/dralquinta/github-readme-stats)
 
