@@ -2,9 +2,9 @@
 
 <br/>
 
-My name is D, I'm a Customer Engineer at Google
+My name is D, I'm a Distinguished Cloud Solutions Architect at Oracle Corp. 
 
-Specialist in Infrastructure and Application Modernization. 
+I'm a Cloud Solutions Architect expert in Cloud Native, DevOps, SDE, Performance Tuning and Troubleshooting/Debugging. 
 
 
 
